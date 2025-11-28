@@ -1,7 +1,6 @@
 # sinsly
-- extremely lazy roblox exploit scripter  
-- usually breaking things instead of fixing them  
-- whole bunch of random luau related shit plus random projects
+- yes i make scripts to cheat on a kids' game
+- whole bunch of luau related shit plus random projects
 
 ## languages
 [![Langs](https://skillicons.dev/icons?i=lua,js,python,css,cpp,c)](https://skillicons.dev)
