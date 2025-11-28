@@ -25,5 +25,5 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sinsly&color=red&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=sinsly&color=blue&style=flat-square">
 </p>
